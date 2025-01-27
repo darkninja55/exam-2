@@ -773,7 +773,7 @@ ul {
   display: flex;
   flex-direction:column;
   width:332px;
-  padding: 42px 31px;
+  padding: 31px 31px;
 }
 .open__list{
   display: flex;
