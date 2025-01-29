@@ -1003,3 +1003,11 @@ opacity: 60%;
   height: 14px;
   margin-right: 9px;
 }
+.footer__item-link:hover {
+  color: #FFBD54;
+}
+
+.footer__item-link:active {
+  opacity: 60%;
+  color: #333;
+}
